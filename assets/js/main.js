@@ -14,12 +14,7 @@ function palindromeWord(stringa) {
         return true;
     }
 }
-var risultato = palindromeWord('ossa');
+var risultato = palindromeWord( userWord);
 console.log(risultato);
 
 
-//**Eserzicio 2 */
-// 1 utente sceglie pari o dispari e inserisce un numero da 1 a 5
-// 2 generiamo un numero random ( sempre da 1 a 5) per il pc (usando una funzione)
-// 3 stabiliamo se la somma dei dure numeri è pari o dispari ( usando una funzione)
-// 4 dichiariamo il vincitore
